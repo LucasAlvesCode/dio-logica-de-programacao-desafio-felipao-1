@@ -169,9 +169,7 @@ Por fim, exibe o perfil completo do personagem.
 **Código:**
 ```javascript
 console.log("O Herói " + nomePersonagem + " é um(a) " + classePersonagem + " rank " + rankPersonagem)
-console.log("
-Agora que já sabemos um pouco mais sobre você, está pronto(a) para começar sua jornada!
-")
+console.log("Agora que já sabemos um pouco mais sobre você, está pronto(a) para começar sua jornada!")
 ```
 
 **Saída:**
