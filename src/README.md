@@ -140,6 +140,26 @@ function capturarExp(){
 ### 🛠️ **Execução do Código**
 
 As funções são chamadas em sequência, criando uma experiência interativa e lógica:  
+
+```javascript
+//Chamada das funções (Nome do Personagem)
+
+capturarNome()
+
+// Saida de texto boas vindas
+
+console.log("Olá, " + nomePersonagem + "! Seja bem-vindo(a) ao mundo de Sakturn!")
+console.log("\nFarei breves perguntas para personalizar sua experiência, Tudo bem?!\n")
+
+//Chamada das funções (Classe do personagem)
+
+capturarClasse()
+
+//Chamada da função (Experiência)
+
+capturarExp()
+```
+
 1. Captura do nome do jogador.  
 2. Escolha da classe.  
 3. Determinação do rank com base na XP.  
